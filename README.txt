@@ -1,1 +1,1 @@
-This is, hopefully, collection of laboratory works done by Boltashov M.A..
+This is, hopefully, collection of laboratory works done by Boltashov M.A., student of group 5, course 2 of FIT (Specialty POIT), enrolled in BSTU.
